@@ -1,0 +1,9 @@
+[ 2025-06-30 14:49:42,991 ] 22 root - INFO - Entered the data ingestion method or component
+[ 2025-06-30 14:49:42,994 ] 25 root - INFO - Read the dataset as dataframe
+[ 2025-06-30 14:49:42,996 ] 31 root - INFO - Train test split initiated
+[ 2025-06-30 14:49:43,001 ] 38 root - INFO - Ingestion of the data iss completed
+[ 2025-06-30 14:49:43,002 ] 63 root - INFO - Datasets imported as dataframes
+[ 2025-06-30 14:49:43,002 ] 65 root - INFO - Obtaining preprocessor objects
+[ 2025-06-30 14:49:43,002 ] 44 root - INFO - Numerical columns standard scaling done
+[ 2025-06-30 14:49:43,002 ] 45 root - INFO - Categorial columns encoding done
+[ 2025-06-30 14:49:43,003 ] 76 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

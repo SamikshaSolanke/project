@@ -4,8 +4,14 @@ Version: 0.0.1
 Author: Samiksha
 Author-email: samikshasolanke05@gmail.com
 License-File: LICENSE
-Requires-Dist: numpy
 Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: Flask
 Dynamic: author
 Dynamic: author-email
 Dynamic: license-file
